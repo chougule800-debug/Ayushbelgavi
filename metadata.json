@@ -1,0 +1,8 @@
+{
+  "name": "AYUSH Federation of India - Belagavi",
+  "description": "AYUSH Federation of India Belagavi Taluka doctors association portal for member registration, announcements, CME programs, and photo gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
